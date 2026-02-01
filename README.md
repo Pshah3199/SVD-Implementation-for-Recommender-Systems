@@ -49,19 +49,6 @@ https://nbviewer.org/github/Pshah3199/SVD-Implementation-for-Recommender-Systems
 
 ⸻
 
-🧠 Key Idea
-	•	Full SVD → exact reconstruction
-	•	Truncated SVD → latent factors + better generalization
-
-⸻
-
-🎯 Use Case
-	•	Academic posters
-	•	Learning recommender systems
-	•	SVD intuition and practice
-
-⸻
-
 ## 📱 Poster & QR Code Access
 For smooth viewing on mobile devices and conference displays,  
 the notebooks are rendered using *Jupyter nbviewer*.
